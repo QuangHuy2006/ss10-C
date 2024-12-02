@@ -35,7 +35,7 @@ int main(){
 		for(int u=2;u>=j;u--){
 			printf(" ");
 		}
-		printf("%d ", ar2d[0][j]);
+		printf("%d ", ar2d[0][3-j-1]);
 		printf("\n");
 	}
 }
